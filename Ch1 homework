@@ -6,3 +6,16 @@ public class Welcome {
 		System.out.println("Programming is fun");
 	}
 }
+
+//project 1.3
+    J     A     V     V     A
+    J    A A     V   V     A A
+J   J   AAAAA     V V     AAAAA
+ J J   A     A     V     A     A
+ 
+ //project 1.5
+ public class Test {
+ 	public static void Main(String[] args) {
+		System.out.println((9.5*4.5-2.5*3)/(45.5-3.5));
+	}
+}
